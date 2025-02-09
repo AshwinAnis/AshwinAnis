@@ -1,5 +1,5 @@
 - 👋 Hi Everyone, I’m @AshwinAnis
-- 👀 I’m interested in Data Analytics, Machine Learning and Artificial Intelligence. 
+- 👀 I’m interested in Data Engineering, Data Analytics, Machine Learning and Artificial Intelligence. 
 - 📫 How to reach me  
   - Email: <ashwinanis1@gmail.com>
   - LinkedIn: <https://www.linkedin.com/in/ashwinanis/>
